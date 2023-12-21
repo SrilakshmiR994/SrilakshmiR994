@@ -8,17 +8,12 @@
 - <b>Saint-Gobain India Pvt. Ltd - July 2019 to September 2023-  </b>
 
 - <b>CDAC - May 2018 to April 2019-  </b>
-  
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
+- <b>Some Interesting Videos : </b>
+  - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+<b>[my linkedin]: https://www.linkedin.com/in/srilakshmi-aswin-dinesh-b9365a158/</b>
 
 <!--
 Here are some ideas to get you started:
